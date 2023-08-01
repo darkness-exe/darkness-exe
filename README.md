@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
 <h3 align="center">Beginning python Developer</h3>
 
-- 🌱 I’m currently learning **Django, Mysql**
+- 🌱 I’m currently learning **Django, Mysql, Aiogram, Bs4** 
 
 - 👯 I’m looking to collaborate on **back-end , front-end , python scripts**
 
